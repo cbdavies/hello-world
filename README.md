@@ -1,2 +1,5 @@
 # hello-world
-Practicing creating a repository with "Hello World" tutorial 
+
+Hi!
+
+My name is Cora. 
